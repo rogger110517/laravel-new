@@ -585,7 +585,7 @@ body {
 }
 .desktop_information_content_user_2 {
   display: none;
-  padding: 0.5rem 0rem;
+  padding: 0.5rem;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -741,7 +741,7 @@ body {
 }
 @media (max-width: 600px) {
   .event_grid {
-    padding: 0px;
+    padding: 20px 0px;
   }
 }
 .event_grid_content {
